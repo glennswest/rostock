@@ -1,4 +1,4 @@
-
+¢›¢¢››¢›
 // Rostock Motor End from Jcrocholl modified by Kolergy to:
 //    - Take 12x1000mm smooth rods and KB-12-WW Linear Bearings
 //    - Increased base height to locate electronics below the base
@@ -53,8 +53,8 @@ module plywood() {
 
 
 
-translate([0, 0, thickness/2]) plywood();
-//projection(cut = false) plywood();
+//translate([0, 0, thickness/2]) plywood();
+projection(cut = false) plywood();
 
 //% translate([0, 0, 0]) cylinder(r=radius/cos(30), h=bed_thickness, center=true, $fn=6);
 
