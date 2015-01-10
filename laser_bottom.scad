@@ -1,4 +1,3 @@
-¢›¢¢››¢›
 // Rostock Motor End from Jcrocholl modified by Kolergy to:
 //    - Take 12x1000mm smooth rods and KB-12-WW Linear Bearings
 //    - Increased base height to locate electronics below the base

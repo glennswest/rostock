@@ -29,8 +29,8 @@ module plywood() {
 			//translate([0, 2*radius*0.05/2+radius/5, 0]) cube([plywood_sizeV, plywood_sizeH, bed_thickness], center=true);
 
 		}
-        %translate([-400,-200,0]) cube([10,488,1]);
-        %translate([-(564.48/2),-200,0]) cube([564.48,10,1]);
+      //  %translate([-400,-200,0]) cube([10,488,1]);
+      //  %translate([-(564.48/2),-200,0]) cube([564.48,10,1]);
 		//cylinder(r=5, h=bed_thickness+1, center=true, $fn=12);
 
 		for (a = [0, 120, 240]) {
